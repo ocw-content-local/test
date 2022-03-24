@@ -9,6 +9,6 @@ metadata:
   caption: ''
   credit: ''
   image_alt: ''
-title: aasdasd
+title: Test image
 uid: 09707456-76cc-44cd-9b0d-b866fcf22b7b
 ---
